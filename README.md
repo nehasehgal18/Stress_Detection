@@ -5,6 +5,8 @@ A **Python-based deep learning project** that uses **Convolutional Neural Networ
 > ⚠️ **Note:** This project uses your computer’s webcam for real-time facial emotion detection and must be run locally.
 
 ---
+Download Dataset from kaggle : https://www.kaggle.com/datasets/msambare/fer2013
+After downloading, you will have a zip file, extract it, and copy the location of that folder in section-2 of the code.
 
 ## 🚀 Features
 
